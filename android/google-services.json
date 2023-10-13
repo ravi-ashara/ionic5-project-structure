@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "754502536672",
+    "project_id": "demoproject-c8d81",
+    "storage_bucket": "demoproject-c8d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754502536672:android:2be8c37afe48e35dcaef85",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754502536672-75haj1n9dafevedr0jpv9kbkttasmngm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMop4Kv-ssN9pj9UVSCoRypNyM9T3xdUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754502536672-75haj1n9dafevedr0jpv9kbkttasmngm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754502536672-3oqqvv0qianlhqul2slgmin1609fjtfv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.starter",
+                "app_store_id": "1528326814"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754502536672:android:2a51f0df709d564dcaef85",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754502536672-tnsv8u0id9k4ql2dp4qbb77v1v5l3rp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.starter",
+            "certificate_hash": "77956b4fe95e04a5beab36baba2489529322a410"
+          }
+        },
+        {
+          "client_id": "754502536672-75haj1n9dafevedr0jpv9kbkttasmngm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMop4Kv-ssN9pj9UVSCoRypNyM9T3xdUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754502536672-75haj1n9dafevedr0jpv9kbkttasmngm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754502536672-3oqqvv0qianlhqul2slgmin1609fjtfv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.starter",
+                "app_store_id": "1528326814"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
